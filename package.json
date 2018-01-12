@@ -1,0 +1,16 @@
+{
+  "name": "d3-course",
+  "version": "1.0.0",
+  "description": "d3 testing sandbox",
+  "main": "index.js",
+  "author": "Luis Garcia Estrades",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "poi": "^9.6.12"
+  },
+  "dependencies": {
+    "d3": "^4.12.2",
+    "expect": "^22.0.6"
+  }
+}
